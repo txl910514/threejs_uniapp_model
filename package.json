@@ -1,0 +1,19 @@
+{
+  "name": "threejs_uniapp_model",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/txl910514/threejs_uniapp_model.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/txl910514/threejs_uniapp_model/issues"
+  },
+  "homepage": "https://github.com/txl910514/threejs_uniapp_model#readme"
+}
