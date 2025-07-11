@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/txl910514/threejs_uniapp_model/issues"
   },
-  "homepage": "https://github.com/txl910514/threejs_uniapp_model#readme"
+  "homepage": "https://github.com/txl910514/threejs_uniapp_model#readme",
+  "dependencies": {
+    "@donglian/wisdom_three_applet": "^1.0.4"
+  }
 }
